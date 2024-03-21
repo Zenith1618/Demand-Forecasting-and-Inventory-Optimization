@@ -1,6 +1,6 @@
 # Demand Forecasting and Inventory Optimization
 
-Demand Forecasting involves estimating future customer demand for a product or service based on historical data and relevant factors. Inventory Optimization focuses on managing inventory levels efficiently to meet customer demand while minimizing costs. If you're interested in learning how to forecast demand and optimize inventory using Python, you're in the right place. In this article, we'll walk you through the process step by step.
+Demand Forecasting involves estimating future customer demand for a product or service based on historical data and relevant factors. Inventory Optimization focuses on managing inventory levels efficiently to meet customer demand while minimizing costs. 
 
 ## Process Overview
 
@@ -8,7 +8,7 @@ Demand Forecasting and Inventory Optimization are crucial tasks for businesses i
 
 1. **Data Gathering**: We start by collecting historical sales data, customer orders, and relevant external factors such as seasonality, promotions, and economic trends.
 
-2. **Demand Forecasting**: Using appropriate forecasting models such as SARIMA (Seasonal Autoregressive Integrated Moving Average), we forecast future demand based on historical data.
+2. **Demand Forecasting**: Using appropriate forecasting models such as SARIMA (Seasonal Autoregressive Integrated Moving Average) as the data possessed seasonality, we forecast future demand based on historical data.
 
-3. **Inventory Optimization**: With the forecasted demand, we optimize inventory levels by implementing strategies like reorder points, safety stock, and economic order quantity (EOQ) calculations.
+3. **Inventory Optimization**: With the forecasted demand, we optimize inventory levels using the Newsvendor Formula which calculates the order quantity that minimizes the expected cost or maximizes the expected profit given the uncertainty in demand. Using the formula we calculate various metrics like reorder points, safety stock, and economic order quantity (EOQ) calculations.
 
